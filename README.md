@@ -28,5 +28,18 @@ Here are some ideas to get you started:
 
 ### :books: Learning
 
-#### I'm currently learning:
+#### 🌱 I’m currently learning:
 [![ReactJS](https://img.shields.io/badge/-ReactJS-%2361dafb?style=flat-square&logo=react&logoColor=000000)](https://reactjs.org/)
+
+---
+
+<table border="3">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBrasolin&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
+    </td>
+    <td>
+<img src="https://github-readme-stats.vercel.app/api/?username=BrunoBrasolin&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=fff&bg_color=0d1117" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
