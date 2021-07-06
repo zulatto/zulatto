@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :hammer_and_wrench: Languages/Tools
+
+[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23efd81d?style=flat-square&logo=javascript&logoColor=000000)](https://www.w3schools.com/js/)
+[![SCSS](https://img.shields.io/badge/-SCSS3-%23c76494?style=flat-square&logo=sass&logoColor=ffffff)](https://sass-lang.com/)
+[![PHP](https://img.shields.io/badge/-PHP-%237377ad?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
+[![Git](https://img.shields.io/badge/-Git-%23e84e31?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com/)
+
+---
+
+### :books: Learning
+
+#### I'm currently learning:
+[![ReactJS](https://img.shields.io/badge/-ReactJS-%2361dafb?style=flat-square&logo=react&logoColor=000000)](https://reactjs.org/)
