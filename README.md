@@ -1,5 +1,6 @@
-### Hello everyone ╰(*°▽°*)╯
-
+### Hello everyone ╰(*°▽°*)╯<br>
+<img width="100em" src="hi.png">
+   
 <!--
 **zulatto/zulatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +34,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Yve-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Yve-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Yve-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- 
 </div>
 
 ---
@@ -59,14 +59,9 @@ Here are some ideas to get you started:
   <a href = "zulatto.yve@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yve-jose-zulatto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.reddit.com/user/zulatto"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-   
-   ![](hi.png)
-   
-   https://discord.com/channels/@me/686698800957620300/870798474852057158
-   
-   ![Snake animation](https://github.com/zulatto/zulatto/blob/output/github-contribution-grid-snake.svg)
+  <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a><br>
 </div>
 
----
-  
+  ![Snake animation](https://github.com/zulatto/zulatto/blob/output/github-contribution-grid-snake.svg)
+
+ 
