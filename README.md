@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <a href="https://www.reddit.com/user/zulatto"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
    
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/zulatto/zulatto/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
