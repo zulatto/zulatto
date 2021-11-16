@@ -1,5 +1,5 @@
 ### Hii everyone ╰(*°▽°*)╯<br>
-<img width="100em" src="hi.png">
+<!-- <img width="100em" src="hi.png"> -->
    
 <!--
 **zulatto/zulatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Yve-Scss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Yve-Less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
   <img align="center" alt="Yve-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+    <img align="center" alt="Yve-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
 
 </div>  
 
